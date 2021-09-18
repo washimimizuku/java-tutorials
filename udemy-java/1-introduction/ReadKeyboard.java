@@ -32,7 +32,5 @@ public class ReadKeyboard
         System.out.println(d);
 
         sc.close();
-
     }
-    
 }
