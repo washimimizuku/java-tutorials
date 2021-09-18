@@ -1,6 +1,6 @@
 import java.lang.*;
 
-class MyFirst
+class HelloWorld
 {
     public static void main(String[] args)
     {
